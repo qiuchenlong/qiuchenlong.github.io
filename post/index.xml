@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BV-Stone</title>
+    <link>http://qiuchenlong.github.io/post/</link>
+    <description>Recent content in Posts on BV-Stone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 04 Jul 2023 12:00:03 +0000</lastBuildDate><atom:link href="http://qiuchenlong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Countertop</title>
+      <link>http://qiuchenlong.github.io/post/2023-07-06-countertop/</link>
+      <pubDate>Tue, 04 Jul 2023 12:00:03 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://qiuchenlong.github.io/post/2023-07-06-countertop/</guid>
+      <description>    Jura beige limestone     moca cream tile     G654 dark grey granite  span --    Sphere
+    Granite Slabs    Triangle
+    Quartz Slabs --  </description>
+    </item>
+    
+    <item>
+      <title>Tile</title>
+      <link>http://qiuchenlong.github.io/post/2023-07-05-tile/</link>
+      <pubDate>Tue, 04 Jul 2023 12:00:02 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://qiuchenlong.github.io/post/2023-07-05-tile/</guid>
+      <description>    Marble Slabs     Granite Slabs     Quartz Slabs     Limestone Slabs     Travertine Slabs     Onyx Slabs   </description>
+    </item>
+    
+    <item>
+      <title>Slab</title>
+      <link>http://qiuchenlong.github.io/post/2023-07-04-slab/</link>
+      <pubDate>Tue, 04 Jul 2023 12:00:01 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://qiuchenlong.github.io/post/2023-07-04-slab/</guid>
+      <description>    Marble Slabs     Granite Slabs     Quartz Slabs     Limestone Slabs     Travertine Slabs     Onyx Slabs  span --    Sphere
+    Granite Slabs    Triangle
+    Quartz Slabs --  </description>
+    </item>
+    
+  </channel>
+</rss>

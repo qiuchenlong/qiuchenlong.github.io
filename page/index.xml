@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on BV-Stone</title>
+    <link>http://qiuchenlong.github.io/page/</link>
+    <description>Recent content in Pages on BV-Stone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster><atom:link href="http://qiuchenlong.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://qiuchenlong.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://qiuchenlong.github.io/page/about/</guid>
+      <description>Company Profile All only stone main products are slabs, tiles, countertops, paving stones, Decoration stone,outdoor hardscaping stone.
+Our two main factories and long-term partnerships with a large number of quarries around the globe and other stone factories in China allow us to offer a diversified range of products such as: granite, marble, basalt, sandstone, limestone, pebble stone and engineered stone. We specializing in the production and supply one stop stone for many commercial projects , residential projects ,Villa project.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://qiuchenlong.github.io/page/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://qiuchenlong.github.io/page/news/</guid>
+      <description>Title Content
+ 1 2  SubContent
+Title2 Content
+ 1 2  SubContent</description>
+    </item>
+    
+  </channel>
+</rss>
